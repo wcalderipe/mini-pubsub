@@ -1,0 +1,9 @@
+###OS X###
+.DS_Store
+
+# SublimeText project files
+*.sublime-workspace
+*.sublime-project
+
+npm-debug.log
+node_modules

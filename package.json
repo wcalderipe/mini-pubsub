@@ -1,0 +1,28 @@
+{
+  "name": "mini-pubsub",
+  "version": "1.0.0",
+  "description": "Minimalist PubSub pattern implementation",
+  "keywords": [
+    "pubsub",
+    "events"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec --compilers coffee:coffee-script/register ./test/*.coffee"
+  },
+  "author": "William Calderipe <wcalderipe@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wcalderipe/mini-pubsub.git"
+  },
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "lodash": "^3.10.1",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
