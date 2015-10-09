@@ -1,6 +1,6 @@
 {
   "name": "mini-pubsub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimalist PubSub pattern implementation",
   "keywords": [
     "pubsub",
