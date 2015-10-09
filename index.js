@@ -1,2 +1,2 @@
 require('coffee-script/register');
-require('./lib/pubsub.coffee');
+require('./lib/mini_pubsub.coffee');

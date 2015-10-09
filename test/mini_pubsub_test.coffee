@@ -1,7 +1,7 @@
 chai = require('chai')
 should = chai.should()
 expect = chai.expect
-MiniPubSub = require('../lib/micro_pubsub')
+MiniPubSub = require('../lib/mini_pubsub')
 
 describe '#constructor', ->
 	it 'should create listeners object', ->
